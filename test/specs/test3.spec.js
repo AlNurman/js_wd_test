@@ -1,4 +1,4 @@
-// Aigerim Nurmanova
+
 const GoogleCloudPage = require('../../pageObjects/googleCloudPage');
 
 describe("Test suite 3", () => {

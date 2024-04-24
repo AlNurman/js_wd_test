@@ -1,4 +1,4 @@
-// Aigerim Nurmanova
+
 const PastePage = require('../../pageObjects/PastePage');
 
 describe("Test suite 1", ()=>{
